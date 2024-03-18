@@ -1,0 +1,247 @@
+@media only screen and (max-width: 991.78px){
+
+    div#navbarSupportedContent {
+        background-color: #f2f2f2;
+        margin-top: 9px;
+        padding-left: 20px;
+    }
+    .login{
+        margin-left: 10px;
+    }
+    .index-mid h2{
+        font-size: 45px;
+        line-height: 55px;
+        padding-top: 90px;
+    }
+    .card-in{
+        padding: 0px;
+    }
+    .index-mid1-txt h3{
+        /* padding-top: 40px; */
+        font-size: 50px;
+    }
+    #id-md {
+        margin-top: 60px;
+        
+    }
+    .index-mid1-txt h5{
+        font-size: 24px;
+        line-height: 35px;
+    }
+    .index-mid1-txt p{
+        padding-top: 10px;
+    }
+    .index-mid3 h3{
+        font-size: 50px;
+    }
+    .card-in h4{
+        font-size: 50px;
+    }
+    .index-card h3{
+        font-size: 50px;
+        line-height: 51px;
+    }
+    .index-mid3{
+        margin-top: 60px;
+    }
+
+
+    .foot-ban1{
+        height: auto;
+    }
+    #foter {
+        padding-top: 30px !important;
+    }
+    .icon1 {
+        margin-bottom: 40px;
+    }
+    .foot2 {
+        height: auto;
+        padding-top: 20px;
+        padding-bottom: 20px;
+    }
+    .foot ul li a{
+        font-size: 16px;
+    }
+    .foot2 p{
+        font-size: 16px;
+    }
+    
+
+    /* about page */
+      
+    .about-mid{
+        height: auto;
+    }
+    .about-mid h3{
+        font-size: 45px;
+        font-style: normal;
+        font-weight: 900;
+        line-height: 52px;
+        padding-top: 90px;
+    }
+    .about-mid p{
+        font-size: 16px;
+    }
+    /* .abt-btn{
+        margin-bottom: 40px;
+    } */
+    .about-mid1-txt h3{
+        font-size: 40px;
+        line-height: 60px;
+        padding-top: 0px;
+    }
+    #id-mdi{
+        margin-top: 60px;
+    }
+    #id-mdi1{
+        margin-top: 60px;
+    }
+
+    /* login page */
+    
+    .conta{
+        max-width: 90%;
+    }
+
+    /* contact */
+
+    .contact{
+        height: auto;
+    }
+    .privacy h3{
+        font-size: 24px;
+        line-height: normal;
+    }
+
+}
+
+
+
+@media only screen and (max-width: 767.78px){
+
+    .index-mid h2{
+        text-align: center;
+        margin-bottom: 30px;
+    }
+    .search{
+        display: block;
+        margin: auto;
+    }
+
+
+    .index-mid1-txt h3{
+        padding-top: 40px;
+        font-size: 50px;
+        text-align: center;
+    }
+    #id-md {
+        margin-top: 60px;
+        flex-flow: column-reverse;
+    }
+    .index-mid1-txt h5{
+        font-size: 24px;
+        line-height: 35px;
+        text-align: center;
+    }
+    .index-mid1-txt p{
+        padding-top: 10px;
+        margin-bottom: 30px;
+        text-align: center;
+    }
+    .index-mid3 h3{
+        font-size: 50px;
+    }
+    .card-in h4{
+        font-size: 50px;
+    }
+    .index-card h3{
+        font-size: 50px;
+        line-height: 51px;
+    }
+    .search-nw{
+        margin-top: 30px;
+    }
+    
+
+    /* about page */
+    
+    .about-mid1-txt h3{
+        font-size: 45px;
+        line-height: 50px;
+        padding-top: 30px;
+    }
+
+
+    #id-mdi{
+        margin-top: 60px;
+        flex-flow: column-reverse;
+    }
+    #id-mdi1{
+        margin-top: 60px;
+    }
+
+    /* login page */
+
+    .conta {
+        max-width: 95%;
+    }
+    .lg-md form{
+        padding: 0 10px;
+    }
+    .sng{
+        font-size: 20px;
+        line-height: 35px;
+    }
+    .overlay-panel{
+        padding: 0 5px;
+    }
+    button.ghost{
+        width: 160px;
+    }
+    .social-conta a{
+        width: 35px;
+        height: 35px;
+    }
+    .tabs_btn {
+        margin-bottom: 30px;
+    }
+
+    /* .sign-in-conta{
+        width: 100%;
+    }
+    .sign-up-conta{
+        width: 100%;
+    } */
+
+    /* privacy */
+
+    .pri-txt{
+        font-size: 65px;
+    }
+    .wel{
+        line-height: normal;
+        padding-top: 60px;
+    }
+}
+
+@media only screen and (max-width: 767.78px){
+
+}
+
+
+
+
+
+
+
+
+@media only screen and (max-width: 1300px) and (min-width: 992px)  {
+    /* index page */
+
+    .foot ul li a{
+        font-size: 16px;
+    }
+
+   
+}
